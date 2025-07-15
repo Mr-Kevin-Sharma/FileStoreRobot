@@ -1,4 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━
+k━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
     ──「 ғɪʟᴇ sᴛᴏʀᴇ ᴘʀᴏ 」──
@@ -33,7 +33,6 @@
 </details>
 
 
-<details><summary><b> ᴠᴀʀɪᴀʙʟᴇs :</b></summary>
   
 ## ᴠᴀʀɪᴀʙʟᴇs
 * API_HASH Your API Hash from my.telegram.org
@@ -50,6 +49,8 @@
 
 
 ## Command 
+
+<details><summary><b>Command:</b></summary>
 
 /start - start the bot or get posts
 /batch - create link for more than one posts
