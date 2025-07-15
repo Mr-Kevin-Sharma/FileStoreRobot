@@ -42,11 +42,11 @@ class Bot(Client):
         except Exception as e:
             self.LOGGER(__name__).warning(e)
             self.LOGGER(__name__).warning(f"Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value {CHANNEL_ID}")
-            self.LOGGER(__name__).info("\nBot Stopped. Join https://t.me/CodeflixSupport for support")
+            self.LOGGER(__name__).info("\nBot Stopped. https://t.me/Im_Mr_Kevin for support")
             sys.exit()
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/CodeflixSupport")
+        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nhttps://t.me/Im_Mr_Kevin")
         self.LOGGER(__name__).info(f"""BOT DEPLOYED BY @CODEFLIX_BOTS""")
 
         self.set_parse_mode(ParseMode.HTML)
