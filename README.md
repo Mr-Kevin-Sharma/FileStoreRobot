@@ -50,7 +50,6 @@ k━━━━━━━━━━━━━━━━━━━━
 
 ## Command 
 
-<details><summary><b>Command:</b></summary>
 
 /start - start the bot or get posts
 /batch - create link for more than one posts
